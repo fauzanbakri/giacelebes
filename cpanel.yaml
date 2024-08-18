@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYMENT=production
+    - /bin/cp -a * /home/u1556303/public_html
