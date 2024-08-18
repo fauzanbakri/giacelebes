@@ -1,0 +1,17 @@
+[17-Dec-2021 08:38:09 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:38:17 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:38:45 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:39:11 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:40:42 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:41:04 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[17-Dec-2021 08:45:44 Asia/Makassar] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5292300 bytes) in /home/u1556303/public_html/application/libraries/tcpdf/tcpdf.php on line 7348
+[26-Jun-2024 11:21:29 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[28-Jun-2024 11:17:27 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[30-Jun-2024 11:41:39 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[14-Jul-2024 19:27:44 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[15-Jul-2024 16:53:20 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[18-Jul-2024 13:03:55 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[18-Jul-2024 13:27:29 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[18-Jul-2024 13:46:51 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[20-Jul-2024 22:10:09 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
+[20-Jul-2024 23:15:53 Asia/Makassar] PHP Notice:  Undefined index: i in /home/u1556303/public_html/TA.php on line 5
